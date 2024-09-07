@@ -160,6 +160,3 @@ export default function Home() {
   }, []);
   return <div ref={containerRef} className="bg-slate-300 w-full h-full" />;
 }
-function extend(arg0: { OrbitControls: typeof OrbitControls }) {
-  throw new Error("Function not implemented.");
-}
